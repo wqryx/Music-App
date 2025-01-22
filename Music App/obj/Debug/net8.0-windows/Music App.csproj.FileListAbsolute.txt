@@ -1,0 +1,26 @@
+C:\Users\rober\source\repos\Music App\Music App\bin\Debug\net8.0-windows\Music App.exe
+C:\Users\rober\source\repos\Music App\Music App\bin\Debug\net8.0-windows\Music App.deps.json
+C:\Users\rober\source\repos\Music App\Music App\bin\Debug\net8.0-windows\Music App.runtimeconfig.json
+C:\Users\rober\source\repos\Music App\Music App\bin\Debug\net8.0-windows\Music App.dll
+C:\Users\rober\source\repos\Music App\Music App\bin\Debug\net8.0-windows\Music App.pdb
+C:\Users\rober\source\repos\Music App\Music App\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\rober\source\repos\Music App\Music App\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\rober\source\repos\Music App\Music App\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App_MarkupCompile.cache
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App_MarkupCompile.lref
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\App.baml
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App.g.resources
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App.AssemblyInfo.cs
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App.csproj.Up2Date
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App.dll
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\refint\Music App.dll
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App.pdb
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\Music App.genruntimeconfig.cache
+C:\Users\rober\source\repos\Music App\Music App\obj\Debug\net8.0-windows\ref\Music App.dll

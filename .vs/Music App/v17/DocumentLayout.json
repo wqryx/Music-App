@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\source\\repos\\Music App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66082760-B154-4C87-8C47-0F98165DC41F}|Music App\\Music App.csproj|c:\\users\\rober\\source\\repos\\music app\\music app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66082760-B154-4C87-8C47-0F98165DC41F}|Music App\\Music App.csproj|solutionrelative:music app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66082760-B154-4C87-8C47-0F98165DC41F}|Music App\\Music App.csproj|c:\\users\\rober\\source\\repos\\music app\\music app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66082760-B154-4C87-8C47-0F98165DC41F}|Music App\\Music App.csproj|solutionrelative:music app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66082760-B154-4C87-8C47-0F98165DC41F}|Music App\\Music App.csproj|c:\\users\\rober\\source\\repos\\music app\\music app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66082760-B154-4C87-8C47-0F98165DC41F}|Music App\\Music App.csproj|solutionrelative:music app\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\Music App\\Music App\\App.xaml",
+              "RelativeDocumentMoniker": "Music App\\App.xaml",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\Music App\\Music App\\App.xaml",
+              "RelativeToolTip": "Music App\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-22T19:58:06.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\Music App\\Music App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Music App\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\Music App\\Music App\\MainWindow.xaml",
+              "RelativeToolTip": "Music App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-22T19:55:32.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\source\\repos\\Music App\\Music App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Music App\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\rober\\source\\repos\\Music App\\Music App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Music App\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T19:55:30.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
